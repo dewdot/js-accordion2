@@ -47,10 +47,6 @@ body {
   flex-direction: column;
   gap: 10px;
 }
-.accordion-item {
-  display: flex;
-  flex-direction: column; 
-}
 .accordion-title {
   position: relative;
   background-color: #333333;
